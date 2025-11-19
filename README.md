@@ -3,8 +3,6 @@
 
 Phase-Gradient Cavitation Model
 
-Public Conceptual Framework
-OSF DOI: https://doi.org/10.17605/OSF.IO/MNFQP
 
 This repository provides the public release of the Phase-Gradient Cavitation Model,
 a conceptual framework built using conventional mathematical tools such as:
@@ -62,8 +60,6 @@ See the included license file for details.
 
 🇯🇵 Phase-Gradient Cavitation Model（位相勾配キャビテーションモデル）
 
-公開概念フレームワーク
-OSF DOI： https://doi.org/10.17605/OSF.IO/MNFQP
 
 本リポジトリは、Phase-Gradient Cavitation Model の公開版です。
 本モデルは、以下の従来の数学的概念を用いて構成されています：
